@@ -60,12 +60,12 @@ app.get('/api/projects', (req, res) => {
     }, [currentCodeIndex]);
 
     return (
-        <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-background via-background to-muted overflow-hidden">
+        <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
             {/* Background Pattern */}
             <div className="absolute inset-0 opacity-5">
                 <div className="absolute inset-0" style={{
-                    backgroundImage: `radial-gradient(circle at 25% 25%, rgb(var(--color-accent)) 2px, transparent 2px),
-                           radial-gradient(circle at 75% 75%, rgb(var(--color-primary)) 1px, transparent 1px)`,
+                    backgroundImage: `radial-gradient(circle at 25% 25%, cyan-400 2px, transparent 2px),
+                           radial-gradient(circle at 75% 75%, blue-900 1px, transparent 1px)`,
                     backgroundSize: '50px 50px'
                 }}></div>
             </div>
