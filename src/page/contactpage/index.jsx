@@ -377,7 +377,7 @@ const ContactCommandCenter = () => {
                 <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
                   <Icon name="Code2" size={20} color="white" />
                 </div>
-                <span className="text-xl font-bold">DevCraft</span>
+                <span className="text-xl font-bold">SahilSoni</span>
               </div>
               <p className="text-secondary-foreground/80 text-sm">
                 Building exceptional digital experiences through clean code, 

@@ -419,7 +419,7 @@ connectDB().then(() => {
               <Button
                 variant="outline"
                 size="lg"
-                onClick={() => window.location.href = '/interactive-homepage'}
+                onClick={() => window.location.href = '/'}
                 iconName="ArrowLeft"
                 iconPosition="left"
               >
