@@ -153,35 +153,35 @@ connectDB().then(() => {
         "Enterprise-grade security"
       ]
     },
-    // {
-    //   id: 2,
-    //   title: "Healthcare Management System",
-    //   description: "A secure patient management platform with appointment scheduling, medical records, and telemedicine capabilities built with React and Python Django.",
-    //   image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?w=800&h=600&fit=crop",
-    //   type: "Full-Stack",
-    //   industry: "Healthcare",
-    //   complexity: "Enterprise",
-    //   techStack: ["React", "Python", "Django", "PostgreSQL", "Redis", "Docker"],
-    //   duration: "8 months",
-    //   teamSize: "6 developers",
-    //   rating: "4.8",
-    //   liveUrl: "https://demo-healthcare.example.com",
-    //   githubUrl: "https://github.com/example/healthcare-system",
-    //   metrics: {
-    //     performance: "+50%",
-    //     impact: "+60%"
-    //   },
-    //   challenge: `Healthcare providers needed a comprehensive digital solution to manage patient records, appointments, and telemedicine consultations while ensuring HIPAA compliance and data security.`,
-    //   approach: `Developed a secure, scalable platform using React for the frontend and Django REST framework for the backend. Implemented role-based access control, encrypted data storage, and integrated video calling for telemedicine.`,
-    //   keyFeatures: [
-    //     "HIPAA-compliant patient records",
-    //     "Appointment scheduling system",
-    //     "Telemedicine video consultations",
-    //     "Prescription management",
-    //     "Insurance claim processing",
-    //     "Medical report generation"
-    //   ]
-    // },
+    {
+      id: 2,
+      title: "Healthcare Management System",
+      description: "A secure patient management platform with appointment scheduling, medical records, and telemedicine capabilities built with React and Python Django.",
+      image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?w=800&h=600&fit=crop",
+      type: "Full-Stack",
+      industry: "Healthcare",
+      complexity: "Enterprise",
+      techStack: ["React", "Python", "Django", "PostgreSQL", "Redis", "Docker"],
+      duration: "8 months",
+      teamSize: "6 developers",
+      rating: "4.8",
+      liveUrl: "https://demo-healthcare.example.com",
+      githubUrl: "https://github.com/example/healthcare-system",
+      metrics: {
+        performance: "+50%",
+        impact: "+60%"
+      },
+      challenge: `Healthcare providers needed a comprehensive digital solution to manage patient records, appointments, and telemedicine consultations while ensuring HIPAA compliance and data security.`,
+      approach: `Developed a secure, scalable platform using React for the frontend and Django REST framework for the backend. Implemented role-based access control, encrypted data storage, and integrated video calling for telemedicine.`,
+      keyFeatures: [
+        "HIPAA-compliant patient records",
+        "Appointment scheduling system",
+        "Telemedicine video consultations",
+        "Prescription management",
+        "Insurance claim processing",
+        "Medical report generation"
+      ]
+    },
     // {
     //   id: 3,
     //   title: "Financial Dashboard Analytics",
